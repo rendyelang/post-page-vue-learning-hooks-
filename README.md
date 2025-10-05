@@ -1,18 +1,10 @@
-# Vue 3 + TypeScript + Vite
+# Web Development Assignment (Learning hooks vue)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Desktop
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/712d9714-ed70-491c-91c7-f78fe6cd6175" />
 
-## Recommended IDE Setup
+## Tablet
+<img width="759" height="942" alt="Image" src="https://github.com/user-attachments/assets/7df68f0c-8208-4f3b-a774-a8201af684f5" />
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Type Support For `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+# Mobile
+<img width="423" height="849" alt="Image" src="https://github.com/user-attachments/assets/3aca0796-f382-4e80-99f9-4497fe45dcf9" />
